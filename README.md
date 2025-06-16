@@ -313,7 +313,7 @@
 </table>
 
 <p align="center">
-  🎶 <em>Feel free to check the Spotify widget above for what I’m listening to right now!</em>
+  <img src="https://komarev.com/ghpvc/?username=jiuby&label=Profile%20views&color=0e75b6&style=flat" alt="jiuby" /> </p>
 </p>
 
 
