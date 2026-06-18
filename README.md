@@ -115,7 +115,7 @@
 <div align="center">
 
   <!-- GitHub -->
-  <a href="https://github.com/Jiuby" target="_blank">
+  <a href="https://github.com/Vell6z" target="_blank">
     <img 
       src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" 
       alt="github" 
@@ -124,7 +124,7 @@
   </a>
 
   <!-- Twitter -->
-  <a href="https://twitter.com/JiuBy1" target="_blank">
+  <a href="https://twitter.com/Vell6z1" target="_blank">
     <img 
       src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white" 
       alt="twitter" 
@@ -160,7 +160,7 @@
   </a>
 
   <!-- Discord -->
-  <a href="https://discordapp.com/users/Jiuby" target="_blank">
+  <a href="https://discordapp.com/users/Vell6z" target="_blank">
     <img 
       src="https://img.shields.io/badge/Discord-7289da?style=for-the-badge&logo=discord&logoColor=white" 
       alt="Discord" 
@@ -169,7 +169,7 @@
   </a>
 
   <!-- Personal Website -->
-  <a href="https://jiuby.github.io/" target="_blank">
+  <a href="https://Vell6z.github.io/" target="_blank">
     <img 
       src="https://img.shields.io/badge/Website-%23007acc?style=for-the-badge&logo=google-chrome&logoColor=white" 
       alt="Personal Website" 
@@ -204,7 +204,7 @@
     <td colspan="2" align="center">
       <img
         alt="GitHub Trophies"
-        src="https://github-profile-trophy.vercel.app/?username=Jiuby&theme=dracula&no-frame=true&margin-w=10&margin-h=15"
+        src="https://github-profile-trophy.vercel.app/?username=Vell6z&theme=dracula&no-frame=true&margin-w=10&margin-h=15"
       />
     </td>
   </tr>
@@ -214,13 +214,13 @@
     <td align="center">
       <img
         alt="GitHub Stats"
-        src="https://github-readme-stats.vercel.app/api?username=Jiuby&show_icons=true&count_private=true&theme=dracula&hide_border=true"
+        src="https://github-readme-stats.vercel.app/api?username=Vell6z&show_icons=true&count_private=true&theme=dracula&hide_border=true"
       />
     </td>
     <td align="center">
       <img
         alt="GitHub Streak"
-        src="https://github-readme-streak-stats.herokuapp.com/?user=Jiuby&theme=dracula&hide_border=true"
+        src="https://github-readme-streak-stats.herokuapp.com/?user=Vell6z&theme=dracula&hide_border=true"
       />
     </td>
   </tr>
@@ -230,7 +230,7 @@
     <td align="center">
       <img
         alt="Top Languages"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jiuby&layout=compact&theme=dracula&hide_border=true&langs_count=8"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vell6z&layout=compact&theme=dracula&hide_border=true&langs_count=8"
       />
     </td>
     <td align="center">
@@ -277,7 +277,7 @@
       </p>
       <p>Face-recognition access-control system with automatic re-training pipeline and a real-time dashboard.</p>
       <p><strong>🏆 1st Place — DataHack 2025 (Pascual Bravo)</strong></p>
-      🔗 <a href="https://github.com/Jiuby/waly-VisualRecognition"><strong>Repository</strong></a>
+      🔗 <a href="https://github.com/Vell6z/waly-VisualRecognition"><strong>Repository</strong></a>
     </td>
   </tr>
 
@@ -292,7 +292,7 @@
       </p>
       <p>AI model that profiles each user’s behaviour and recommends the most effective personal learning strategy.</p>
       <p><strong>🏆 2nd Place — AcademiaCube Hackathon</strong></p>
-      🔗 <a href="https://github.com/Jiuby/Waly"><strong>Repository</strong></a>
+      🔗 <a href="https://github.com/Vell6z/Waly"><strong>Repository</strong></a>
     </td>
   </tr>
 
@@ -307,13 +307,13 @@
         <img alt="SciPy"     src="https://img.shields.io/badge/SciPy-8CAAE6?style=flat&logo=scipy&logoColor=white">
       </p>
       <p>Pure statistical model that predicts match results and simulates tournament scenarios — no front-end required.</p>
-      🔗 <a href="https://github.com/Jiuby/Predictor-Copa-America-2024"><strong>Repository</strong></a>
+      🔗 <a href="https://github.com/Vell6z/Predictor-Copa-America-2024"><strong>Repository</strong></a>
     </td>
   </tr>
 </table>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jiuby&label=Profile%20views&color=0e75b6&style=flat" alt="jiuby" /> </p>
+  <img src="https://komarev.com/ghpvc/?username=Vell6z&label=Profile%20views&color=0e75b6&style=flat" alt="Vell6z" /> </p>
 </p>
 
 
